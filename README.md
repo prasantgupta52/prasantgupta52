@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm PRASANT GUPTA</h1>
 <h3 align="center">A passionate Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantgupta52&label=Profile%20views&color=14f541&style=flat" alt="prasantgupta52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantgupta52&label=Profile%20views&color=1A77B1&style=flat" alt="prasantgupta52" /> </p>
 
-<p align="left"> <a href="https://Linkedin.com/in/prasantgupta52" target="blank"><img src="https://img.shields.io/twitter/follow/prasantgupta52?logo=twitter&style=for-the-badge" alt="prasantgupta52" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/prasantgupta52/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Prasant Gupta" width="150" height="30" /></a> </p>
 
-- 🔭 I’m currently learning **Data Structures & Algorithms**
+# 💫 About Me:
+🔭 I’m currently learning **Data Structures & Algorithms**
 
-- 👯 I’m currently Exploring **MERN Stack Web Development**
+🌱 I’m currently Exploring **MERN Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [github.com/prasantgupta52](github.com/prasantgupta52)
+👨‍💻 All of my projects are available at **[prasantgupta52](https://github.com/prasantgupta52)**
 
-- 📫 How to reach me **pg2421@it.jgec.ac.in**
+📫 How to reach me **[pg2421@it.jgec.ac.in](mailto:pg2421@it.jgec.ac.in)**
 
-- 📄 Know about my experiences [xyz](xyz)
+📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)**
 
-- ⚡ Fun fact **hui hui**
+😄 Pronouns: **He/His**
+
+⚡ Fun fact **hui hui**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
