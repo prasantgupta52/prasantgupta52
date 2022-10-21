@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantgupta52&label=Profile%20views&color=1A77B1&style=flat" alt="prasantgupta52" /> </p>
 
-<img src="./undraw_illustrations.gif" width=500 align=right />
+<img src="./undraw_illustrations.gif" width=400 align=right />
 
 <p align="left"> <a href="https://www.linkedin.com/in/prasantgupta52/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Prasant Gupta" width="150" height="30" /></a> </p>
 
