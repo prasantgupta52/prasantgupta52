@@ -55,7 +55,6 @@
 <br />
 <img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prasantgupta52&layout=compact&langs_count=8&theme=algolia" alt="prasantgupta52" />
 <img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prasantgupta52&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="prasantgupta52" />
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=prasantgupta52&theme=react-dark" />
 
 </a>
 </p>
