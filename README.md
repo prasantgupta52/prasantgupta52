@@ -21,7 +21,7 @@
 
 📫 How to reach me **[pg2421@it.jgec.ac.in](mailto:pg2421@it.jgec.ac.in)**
 
-📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)**
+📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1UXjwKp8Oc9sE6yTBYDsavVmylycQfcWB/view?usp=sharing)**
 
 😄 Pronouns: **He/His**
 
